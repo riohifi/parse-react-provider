@@ -1,5 +1,5 @@
 {
-  "name": "@parse/react-provider",
+  "name": "parse-react-provider",
   "version": "1.0.0",
   "description": "A React context provider for Parse.",
   "homepage": "https://github.com/riohifi/parse-react-provider#readme",
