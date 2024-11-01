@@ -1,0 +1,9 @@
+node_modules
+src
+*.log
+*.ts
+*.tsx
+*.test.ts
+*.test.tsx
+dist/*
+!.npmignore
